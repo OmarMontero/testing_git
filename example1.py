@@ -1,2 +1,1 @@
-variable = "string cambiado"
-otra_variable = "variable añadida después"
+variable = "Primer string"
