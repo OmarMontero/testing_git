@@ -1,1 +1,1 @@
-variable = "string cambiado"
+variable = "Primer string"
